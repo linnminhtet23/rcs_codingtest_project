@@ -21,3 +21,5 @@ You will also see any lint errors in the console.
 
 ### Notice
 I'm just a beginner in React js and the web pages will not be fully resonponsive in this project. It will only available for browser view. If I make you unpleasant, I'm so sorry for that.Please Enjoy my project 
+
+![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/register.png)
