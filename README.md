@@ -12,6 +12,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+on both api and client folder.\
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -19,7 +21,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Notice
-I'm just a beginner in React js and the web pages will not be fully resonponsive in this project. It will only available for browser view. If I make you unpleasant, I'm so sorry for that.Please Enjoy my project 
+I'm just a beginner in React js and the web pages will not be fully resonponsive in this project. It will only available for browser view. If I make you unpleasant, I'm so sorry for that. Please Enjoy my project 
 
 # Sample Screen Shots
 
