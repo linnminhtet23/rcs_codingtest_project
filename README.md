@@ -5,9 +5,7 @@
 first you need to run `npm install` to install npm packages in both folder
 
 ## MongoDB Connection
-first you need to add .env file in api folder
-
-inside of the .env file you need to add MONGO_URI = "add your mongo uri" for the database connection
+I also added my .env configuration file for easy testing.
 
 
 ## Available Scripts
