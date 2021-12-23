@@ -32,7 +32,7 @@ I'm just a beginner in React js and the web pages will not be fully resonponsive
 
 ![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/post.png)
 
-![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/.png)
+![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/writes.png)
 
 ![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/settings.png)
 
