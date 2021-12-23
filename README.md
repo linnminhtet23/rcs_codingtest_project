@@ -26,8 +26,6 @@ I'm just a beginner in React js and the web pages will not be fully resonponsive
 
 ![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/home.png)
 
-
-
 ![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/register.png)
 
 ![alt text](https://github.com/linnminhtet23/rcs_codingtest_project/blob/master/screenshots/login.png)
