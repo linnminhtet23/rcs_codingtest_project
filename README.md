@@ -4,7 +4,7 @@
 first you need to run `npm install` to install npm packages in both folder
 
 ## MongoDB Connection
-I also added my .env configuration file with mongodb uri for easy testing.
+I also added my `.env` configuration file with mongodb uri for easy testing.
 
 ## Available Scripts
 
