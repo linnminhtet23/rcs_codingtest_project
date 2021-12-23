@@ -1,5 +1,4 @@
 # MERN news app
-# Getting Started with Create React App
 
 ## Installation 
 first you need to run `npm install` to install npm packages in both folder
